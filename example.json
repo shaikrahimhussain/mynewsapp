@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Jared Richards, Velvet Winter, Dan Condon",
+      "title": "ICYMI: Protests interrupt awards show, Dolly Parton courts controversy and a heap of iconic casts reunite",
+      "description": "ICYMI, here are all the entertainment stories from recent days you might have missed in the Taylor Swift eclipse.",
+      "url": "https://www.abc.net.au/news/2024-02-26/devil-wears-prada-sag-spirit-awards-protests-survivor-scott/103503282",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6fafda2dd360236f337908f25ae5ab78?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-02-26T03:10:47Z",
+      "content": "This Sunday's SAG Awards didn't just make the Oscars' best actress race considerably more interesting, with Emma Stone and Lily Gladstone now equal frontrunners, it featured a lot of reunions, too.\r\n… [+8698 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Tatum Hunter",
+      "title": "AI ‘dream girls’ are coming for porn stars’ jobs",
+      "description": "AI will change porn forever, adult entertainment companies claim. It’s unclear who will benefit.",
+      "url": "https://www.washingtonpost.com/style/of-interest/2024/02/25/ai-porn-avn-industry/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WDQIEZBUQREKTJNMIBF4QRQAI4.jpg&w=1440",
+      "publishedAt": "2024-02-25T13:00:38Z",
+      "content": "LAS VEGAS Dozens of porn stars in lingerie lined the convention hall, but Tom Maupin, 72, knew exactly who he was there to see. The retired schoolteacher had flown from Omaha to Las Vegas, purchased … [+13621 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "Big News For Harley Quinn on HBO Max - IGN The Fix: Entertainment - IGN",
+      "description": "<section class=\"video-page\"><p>Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wielding, pigtailed deviant named #H…",
+      "url": "https://www.ign.com/videos/big-news-for-harley-quinn-on-hbo-max-ign-the-fix-entertainment",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/08/31/efix-083122-blogroll-1661978432833.jpg?width=1280",
+      "publishedAt": "2022-09-01T17:52:24.9579624Z",
+      "content": "Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wieldin… [+239 chars]"
+    },
+    {
+      "source": { "id": "the-lad-bible", "name": "The Lad Bible" },
+      "author": null,
+      "title": "Breaking Entertainment News - Celebrity & Showbiz News | LADbible",
+      "description": "The latest entertainment news in the UK and worldwide on LADbible. We cover breaking celebrity news and showbiz stories. Check out our exclusives.",
+      "url": "https://www.theladbible.com/entertainment",
+      "urlToImage": null,
+      "publishedAt": "2020-06-18T14:07:50.1068606Z",
+      "content": "Netflix's new fantasy show, Cursed, will launch on 17 July"
+    }
+  ]
+}
